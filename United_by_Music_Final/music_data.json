@@ -1,0 +1,36 @@
+{
+  "specifications": {
+    "type": {
+      "instrument" : {
+        "family": [
+          "brass",
+          "percussion",
+          "strings",
+          "woodwinds"
+        ],
+         "level": [
+           "beginner",
+           "intermediate",
+           "advanced"
+          ]
+        },
+      "vocal" : {
+        "voice_types": [
+          "alto",
+          "soprano",
+          "tenor",
+          "bass"
+        ],
+        "level_vocal": [
+          "beginner",
+          "intermediate",
+          "advanced"
+        ]
+      }
+    }
+  }
+}
+
+
+
+
