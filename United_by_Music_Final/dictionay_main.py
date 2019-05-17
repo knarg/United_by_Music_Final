@@ -20,7 +20,7 @@ def main():
 
             # taking the user question
 
-            user_ask = input("what is your question?")
+            user_ask = input("what is your question?\n")
 
             #Adding the question at the end of our list of questions
 
