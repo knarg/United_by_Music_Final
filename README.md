@@ -15,7 +15,8 @@ Resolution:This application offers materials accoring to the level.
 Resolution: People can ask questions and get the answers.
 
 User stories
-As a user I need to insert in what field i want to reach materials and what is my level in that field. Also I can ask questions and get their answers.
+As a user I need to insert in what field i want to reach materials and what is my level in that field.
+As a user I can ask questions answer questions and see the questions and answers previously asked.
 _____
 Instruction to run:
 1) Run the "dict_main.py" program first to start the json list 
