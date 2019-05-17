@@ -18,6 +18,8 @@ User stories
 As a user I need to insert in what field i want to reach materials and what is my level in that field.
 As a user I can ask questions answer questions and see the questions and answers previously asked.
 _____
-Instruction to run:
+Instructions to run:
 1) Run the "dict_main.py" program first to start the json list 
 2) Run the file named "dictionary_main.py" 
+3) It is needed to have PILLOW for user_story_two.py to show the material images.
+4) Also Run the user_story_two.py
