@@ -30,6 +30,8 @@ def main():
 
             with open('my_dict.json', 'w') as f:
                 json.dump(dict, f)
+            print("Your question has been saved")
+           
 
         elif user_input == 2:
             # loading the json file to view the latest questions
@@ -66,6 +68,7 @@ def main():
 
             with open('my_dict.json', 'w') as f:
                 json.dump(dict, f)
+            print("Your answer has been saved")
 
         else:
             print("Please type as required")
